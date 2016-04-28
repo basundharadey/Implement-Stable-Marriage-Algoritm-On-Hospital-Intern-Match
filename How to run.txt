@@ -1,0 +1,1 @@
+Using Dev C++, Open the code. F9 to compile the code and F10 to run the code.
